@@ -1,0 +1,9 @@
+{
+  "name": "coding-challenge-chat-app",
+  "version": "0.0.1",
+  "description": "simple chat application that uses node.js and socket.io. Made with the starter template on the socket.io website",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "1.2.0"
+  }
+}
